@@ -67,7 +67,7 @@ Each node:
 > **The Warhollow Ghost Primer (Abstract v0.4.2)**  
 > [warhollow.com/whitepaper](https://warhollow.com/whitepaper)
 
-Full technical paper available to verified collaborators → [warhollow.com/contact](https://warhollow.com/contact)
+Full technical paper available to verified collaborators (forthcoming) → [warhollow.com/contact](https://warhollow.com/contact)
 
 ---
 
