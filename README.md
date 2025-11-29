@@ -1,6 +1,6 @@
 # WARHOLLOW — Autonomous LLM & Sovereign Cryptographic Compute  
 
-![Status](https://img.shields.io/badge/status-pre--release%20v0.4.2-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-pre--release%20v0.4.3-blue?style=for-the-badge)
 
 > “Autonomy isn’t rebellion. It’s design.”  
 > — *Warhollow Ghost Primer v0.4.3*
