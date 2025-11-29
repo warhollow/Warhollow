@@ -314,7 +314,7 @@ Future documents may expand on these directions conceptually while continuing to
 ## 9. Versioning & Copyright
 
 - **v0.26** — Added Secure Development Endpoints section  
-- **v0.25** — Added IP Armor + Security Positioning  
+- **v0.25** — Added IP Notice + Security Positioning  
 - **v0.2** — Added Client Assurance Model  
 - **v0.1** — Initial public release  
 
