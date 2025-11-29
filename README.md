@@ -86,7 +86,7 @@ Together, HRS + HME define:
 ## 📜 Core Documentation
 
 > **The Warhollow Ghost Primer (Abstract v0.4.3)**  
-> 🔗 https://warhollow.com/whitepaper
+- Forthcoming
 
 > **Warhollow Whitepaper v0.26 — Sovereign Compute Architecture (Conceptual)**  
 > 🔗 [`whitepapers/warhollow-whitepaper-v0.26.md`](./whitepapers/warhollow-whitepaper-v0.26.md)
