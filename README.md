@@ -1,5 +1,5 @@
 # WARHOLLOW — Autonomous LLM & Sovereign Cryptographic Compute  
-![Warhollow Banner](branding/warhollow-banner-ultrawide.png)
+![Warhollow Banner](branding/warhollow-wide-logo.PNG)
 ![Status](https://img.shields.io/badge/status-pre--release%20v0.4.3-blue?style=for-the-badge)
 
 > “Autonomy isn’t rebellion. It’s design.”  
