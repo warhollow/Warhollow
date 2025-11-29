@@ -1,5 +1,5 @@
-![Warhollow Banner](branding/wh-banner.PNG)
-# WARHOLLOW — Autonomous LLM & Sovereign Cryptographic Compute  
+![Warhollow Banner](branding/warhollow-header.svg)
+# Autonomous LLM & Sovereign Cryptographic Compute  
 
 ![Status](https://img.shields.io/badge/status-pre--release%20v0.4.3-blue?style=for-the-badge)
 
