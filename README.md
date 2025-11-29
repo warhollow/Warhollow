@@ -120,8 +120,8 @@ This repository contains **conceptual materials only**.
 ## 🛰 Follow / Contact
 
 - 🌐 https://warhollow.com  
-- 📬 contact@warhollow.com  
-- 🕳 GitHub • X/Twitter: https://x.com/warhollow  
+- 📬 wh@thewarhollow.com  
+- 🕳 GitHub 
 
 ---
 
