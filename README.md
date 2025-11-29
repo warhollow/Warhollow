@@ -103,7 +103,7 @@ These documents are **conceptual** and contain **no operational detail**.
   [`./legal/SECURITY-POSITIONING.md`](./legal/SECURITY-POSITIONING.md)
 
 - **IP Armor Notice** (anti–patent/copyright troll protection)  
-  [`./legal/IP-ARMOR-NOTICE.md`](./legal/IP-ARMOR-NOTICE.md)
+  [`./legal/IP-ARMOR-NOTICE.md`](./legal/IP-NOTICE.md)
 
 No part of this repository may be used to support IP assertions against Warhollow.
 
