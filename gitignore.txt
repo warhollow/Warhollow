@@ -1,0 +1,16 @@
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore local editor files
+*.swp
+*.swo
+
+# Ignore asset source files you don't want public
+*.psd
+*.xcf
+
+# Ignore private notes (if you add any)
+private/
+notes/
+internal/
