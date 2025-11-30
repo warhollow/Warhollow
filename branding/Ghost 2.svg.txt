@@ -1,0 +1,19 @@
+<svg width="2400" height="300" viewBox="0 0 2400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="2400" height="300" fill="black"/>
+
+  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="105"
+        letter-spacing="18"
+        fill="#c8f6ff">
+    WARHOLLOW
+  </text>
+
+  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="85"
+        letter-spacing="14"
+        fill="#c8f6ff">
+    GHOST PRIMER
+  </text>
+</svg>
