@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-pre--release%20v0.4.3-blue?style=for-the-badge)
 
 > “Autonomy isn’t rebellion. It’s design.”  
-> — *Warhollow Ghost Primer v0.4.3*
+> — *Warhollow Ghost Primer v0.4.4*
 
 ---
 
@@ -85,7 +85,7 @@ Together, HRS + HME define:
 
 ## 📜 Core Documentation
 
-> **The Warhollow Ghost Primer (Abstract v0.4.3)**  
+> **The Warhollow Ghost Primer (Abstract v0.4.4)**  
 > 🔗 [`ghost-primer/ghost-primer-v0.4.4.md`](./ghost-primer/ghost-primer-v0.4.4.md)
 
 > **Warhollow Whitepaper v0.26 — Sovereign Compute Architecture (Conceptual)**  
