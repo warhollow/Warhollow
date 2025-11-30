@@ -1,4 +1,4 @@
-# WARHOLLOW  
+![Warhollow Banner](branding/WH-header.svg)
 ### Sovereign Compute for High-Discipline Workloads  
 #### Whitepaper v0.26 — Public Edition  
 #### © 2025 Warhollow. All Rights Reserved.
