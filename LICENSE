@@ -2,7 +2,7 @@ STEALTH LICENSE v0.2
 
 Copyright © 2025 Warhollow LLC.
 All rights reserved.
-
+===============================
 Permission is granted to view, clone, and evaluate the source code, documentation, and conceptual materials contained in this repository for personal, research, or non-commercial purposes only.
 
 Commercial deployment, redistribution, publication, or derivative works—whether of the software, documentation, diagrams, or conceptual models—require prior written consent from Warhollow LLC.
@@ -14,6 +14,7 @@ These materials describe high-level architectural principles only and do not dis
 Any similarity to third-party technologies is coincidental and results from the use of universally understood security primitives.
 
 Intellectual Property Restrictions (IP Armor)
+=============================================
 	•	NO PATENT LICENSE IS GRANTED.
 	•	NO PATENT RIGHTS ARE IMPLIED.
 	•	NO RIGHT TO ASSERT ANY PATENT OR IP CLAIMS against Warhollow is permitted.
@@ -27,15 +28,16 @@ Nothing in this repository should be interpreted as:
 	•	implying compliance with any formal security framework or certification
 
 Security and Telemetry Restrictions
-
+===================================
 No telemetry, analytics, data harvesting, automated scanning, or network-based instrumentation may be performed using any part of this repository. No profiling, measurement, or behavioral analysis of the software or documentation is permitted.
 
 Disclaimer
-
+==========
 THIS SOFTWARE AND DOCUMENTATION ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WARHOLLOW LLC SHALL NOT BE LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM USE OF THE SOFTWARE OR DOCUMENTATION.
 
 Governing Law
-
+=============
 This license is governed by the laws of the State of New York, United States of America.
+
 
 By accessing, cloning, or using any portion of this repository, you agree to these terms.
