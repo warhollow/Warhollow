@@ -1,5 +1,3 @@
-# WarHollow Ghost Primer  
-
 ![Warhollow Ghost Primer Banner](../branding/warhollow-ghost-primer.svg)
 
 ### Abstract v0.4.4 — Overview Edition  
