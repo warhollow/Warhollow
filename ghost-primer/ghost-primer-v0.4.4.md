@@ -1,6 +1,6 @@
 ![Warhollow Ghost Primer Banner](../branding/warhollow-ghost-primer.svg)
 
-### Abstract v0.4.4 — Overview Edition  
+### Abstract v0.4.4 — Overview 
 © 2025 Warhollow LLC. All rights reserved.
 
 > “Autonomy isn’t rebellion. It’s design.”  
@@ -48,7 +48,7 @@ with equal cryptographic integrity.
 
 ---
 
-## III. The Three Laws of Sovereign Compute  
+## III. The Three Pillars of Sovereign Compute  
 
 **1. Identity must originate at the machine.**  
 External systems may enhance capability,  
@@ -62,7 +62,7 @@ but authority does not flow upward.
 Telemetry, reporting, logging, and external attestation occur  
 only when the operator explicitly chooses.
 
-These laws are not rules of exclusion —  
+These are not rules of exclusion —  
 they are rules of **primacy**.
 
 ---
