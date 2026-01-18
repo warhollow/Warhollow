@@ -1,0 +1,81 @@
+# Warhollow Tiers
+
+This document defines the current tier model for Warhollow.
+It reflects design intent and roadmap direction, not a final pricing or SLA commitment.
+
+Warhollow environments are always:
+- Single-tenant
+- Operator-controlled
+- Private by default
+- Designed to minimize exposed surface area
+
+The tiers below describe how much structure, governance, and assurance is applied on top of that baseline.
+
+---
+
+## Ghost
+
+**Minimal presence. Maximum discretion.**
+
+Ghost is designed for builders and operators who want a secure, private environment without ceremony.
+It favors simplicity, low footprint, and operator control.
+
+### Characteristics
+- Single isolated environment
+- Private-by-default access paths
+- Key-based access control
+- Manual snapshots and exports
+- Minimal observability
+
+Ghost is intentionally quiet.
+It does not assume teams, persistence, or long-term retention.
+
+---
+
+## Shadow
+
+**Operational, deliberate, and repeatable.**
+
+Shadow is intended for real workloads that require consistency and visibility without sacrificing sovereignty.
+
+### Characteristics
+- Multiple environments or isolated cells
+- Role-based access control
+- Scheduled snapshots and retention policies
+- Standard observability and audit-friendly logs
+- Template-based provisioning
+
+Shadow favors predictability.
+It makes it possible to answer basic operational questions without introducing bureaucracy.
+
+---
+
+## Sentinel
+
+**Governed environments inside the perimeter.**
+
+Sentinel is designed for workloads that require active protection, enforced boundaries, and provable control.
+
+Sentinel environments operate with stronger access rules, clearer audit trails, and deliberate change management.
+
+### Characteristics
+- Enforced access controls and strong authentication options
+- Governance-aware change management
+- Hardened execution boundaries
+- Exportable audit records
+- Tested recovery workflows
+
+Sentinel favors assurance.
+It is intended for high-stakes or sensitive workloads where visibility and recovery matter as much as uptime.
+
+---
+
+## The Warhollow Framework
+
+Regardless of tier:
+- No shared tenants
+- No opaque infrastructure
+- Clear ownership boundaries
+- Deliberate, reversible change
+
+Warhollow prioritizes control, discretion, and clarity.
