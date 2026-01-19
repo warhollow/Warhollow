@@ -65,21 +65,20 @@ Together, HRS + HME define:
 
 - Private, sealed, sovereign LLM hosting  
 - PQ-hybrid, forward-secure architecture  
-- Fully offline-capable  
-- Zero telemetry  
+- Offline-capable  
+- Zero/reduced telemetry  
 - Deterministic boot and attestation  
 - Operator-controlled lifecycle and teardown  
-- Compute that protects its operator—not its vendor
+- Compute that prioritizes security & privacy
 
 ---
 
-## 🧩 Current Phase (Q4 2025)
+## 🧩 Current Phase (Q1 2026)
 
 - Architecture and trust primitives under refinement  
 - Encrypted AI + crypto runtime in **alpha simulation**  
 - Optional private validator mesh for cross-verifying proofs  
-- Whitepaper (v0.26) and Ghost Primer (v0.4.3) published  
-- Infrastructure implementation: **classified / non-public**
+- Infrastructure implementation & hardening: **classified / non-public**
 
 ---
 
@@ -128,4 +127,4 @@ This repository contains **conceptual materials only**.
 
 ### 🕶 Alpha Infrastructure · Zero Telemetry · Sovereign Compute  
 
-© 2025 Warhollow LLC. All rights reserved.
+© 2026 Warhollow LLC. All rights reserved.
