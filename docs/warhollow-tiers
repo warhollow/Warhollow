@@ -4,7 +4,7 @@ This document defines the current tier model for Warhollow.
 It reflects design intent and roadmap direction, not a final pricing or SLA commitment.
 
 Warhollow environments are always:
-- Single-tenant
+- Tenant-isolated
 - Operator-controlled
 - Private by default
 - Designed to minimize exposed surface area
@@ -13,15 +13,15 @@ The tiers below describe how much structure, governance, and assurance is applie
 
 ---
 
-## Ghost
+## Ghost [Ephemeral Protection]
 
 **Minimal presence. Maximum discretion.**
 
 Ghost is designed for builders and operators who want a secure, private environment without ceremony.
 It favors simplicity, low footprint, and operator control.
 
-### Characteristics
-- Single isolated environment
+### Characteristics 
+- Isolated environment/enforced by virtualization
 - Private-by-default access paths
 - Key-based access control
 - Manual snapshots and exports
@@ -32,7 +32,7 @@ It does not assume teams, persistence, or long-term retention.
 
 ---
 
-## Shadow
+## Shadow [Shielded Operation]
 
 **Operational, deliberate, and repeatable.**
 
@@ -50,7 +50,7 @@ It makes it possible to answer basic operational questions without introducing b
 
 ---
 
-## Sentinel
+## Sentinel [Protective Oversight]
 
 **Governed environments inside the perimeter.**
 
@@ -73,7 +73,6 @@ It is intended for high-stakes or sensitive workloads where visibility and recov
 ## The Warhollow Framework
 
 Regardless of tier:
-- No shared tenants
 - No opaque infrastructure
 - Clear ownership boundaries
 - Deliberate, reversible change
