@@ -1,9 +1,9 @@
 ![Warhollow Ghost Primer Banner](../branding/warhollow-ghost-primer.svg)
 
 ### Abstract v0.4.4 — Overview 
-© 2025 Warhollow LLC. All rights reserved.
+© 2026 Warhollow LLC. All rights reserved.
 
-> “Autonomy isn’t rebellion. It’s design.”  
+> “Autonomy means systems that operate independently within controlled bounderies.”  
 > — *Warhollow Ghost Fragment*
 
 ---
@@ -74,7 +74,7 @@ Warhollow distinguishes between:
 - **Interference** → any mechanism that overrides operator authority  
 - **Integration** → any mechanism the operator chooses to enable  
 
-This boundary is critical.
+This boundary is essential.
 
 A Warhollow node may:
 
