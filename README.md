@@ -8,7 +8,7 @@
 
 ---
 
-© 2025 Warhollow LLC. All rights reserved.  
+© 2026 Warhollow LLC. All rights reserved.  
 Licensed under the **[Stealth License v0.2](./LICENSE)**.  
 Use of this repository and its contents constitutes acceptance of the license terms.
 
