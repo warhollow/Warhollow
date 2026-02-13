@@ -1,130 +1,110 @@
 ![Warhollow Banner](branding/warhollow-header.svg)
-# Autonomous LLM & Sovereign Cryptographic Compute  
+# Sovereign Compute · Explicit Boundaries  
 
 ![Status](https://img.shields.io/badge/status-pre--release%20v0.4.3-blue?style=for-the-badge)
 
-> “Autonomy isn’t rebellion. It’s design.”  
-> — *Warhollow Ghost Primer v0.4.4*
-
----
+> “Autonomy means systems that operate independently within controlled boundaries.”
+> — Warhollow Ghost Primer
 
 © 2026 Warhollow LLC. All rights reserved.  
-Licensed under the **[Stealth License v0.2](./LICENSE)**.  
+Licensed under the Stealth License v0.2.  
 Use of this repository and its contents constitutes acceptance of the license terms.
 
 ---
 
 ## 🧠 What Warhollow Is
 
-**Warhollow** is a **sovereign, operator-exclusive compute framework** for **private AI**, **cryptographic workloads**, and **mission-grade computational autonomy**.
+Warhollow is a sovereign compute environment for AI and cryptographic workloads that require explicit governance and structured trust boundaries.
 
-It delivers **self-verifying, silicon-rooted compute** inside sealed, jurisdictionally-contained environments — without cloud dependencies, telemetry, or external attestation services.
+It operates on physically controlled hardware and uses enterprise-grade virtualization to isolate workloads within a unified control domain.
 
-Warhollow operates between **open science** and **open consensus**, defining a **third domain**:  
-**Compute that proves integrity without disclosure.**
+Warhollow does not eliminate trust.  
+It narrows the trust surface and makes governance explicit.
 
 ---
 
 ## 🔒 Core Trust Model
 
-Warhollow introduces two foundational concepts:
+Warhollow is structured around three foundational principles:
 
-### **HRS — Hardware-Rooted Sovereignty**  
-Hardware identity is the trust anchor.  
-Boot, integrity, and attestation are enforced locally — never through a cloud provider.
+- **Unified Control Domain** — Governance spans both the physical substrate and the virtualization control plane.
+- **Hypervisor-Enforced Isolation** — Workloads operate within isolated execution contexts.
+- **Explicit Custody** — Data residency and infrastructure location are determined by physical control rather than cloud abstraction.
 
-### **HME — Hardened Machine Environment**  
-A physically single-tenant, operator-controlled execution boundary with deterministic, inspectable behavior.
-
-Together, HRS + HME define:  
-> **Sovereignty delivered as silicon.**
+There is no external hyperscaler control plane provisioning, migrating, or replicating workloads.
 
 ---
 
-## 🛡 Key Properties
+## 🤖 AI & Cryptographic Workloads
 
-- **Operator-exclusive control** — No hyperscalers, no shared tenants, no delegated IAM.  
-- **TPM-bound identity (minimal usage)** — Hardware identity for integrity, not cloud trust enforcement.  
-- **Zero cloud dependency** — Fully offline-capable.  
-- **Encrypted, isolated workloads** — AI, agents, and cryptographic operations under the operator’s keys only.  
-- **Proof-of-integrity** — Optional cryptographic attestations for lifecycle events and workloads.  
-- **Jurisdictional containment** — Infrastructure aligned with the operator’s legal domain.
+Warhollow supports operator-controlled AI execution and cryptographic operations within isolated virtual environments.
+
+AI inference runs inside a governed compute environment rather than through external API providers. Prompts, model execution, and outputs remain within the defined trust boundary of the environment.
+
+Workload Owners retain control over:
+
+- Application logic and model configuration  
+- Cryptographic credentials inside their execution context  
+- External data interfaces (e.g., API calls to owner-controlled data sources)  
+
+Infrastructure governance remains structurally separate from workload execution.
+
+Warhollow does not claim zero-knowledge guarantees or cryptographic impossibility of access.  
+It reduces external dependencies and narrows where trust must reside.
 
 ---
 
-## 🤖 AI + Cryptographic Integration
+## 💎 Value Orientation
 
-- **Private Intelligence** — LLMs and agents that operate under your keys alone.  
-- **Encrypted LLM Execution** — Hardware-sealed isolation for generative and analytic models.  
-- **Verifiable Compute** — Every workload can sign its own existence, state, and lifecycle.  
-- **Optional Proof-of-Compute Ledger** — A cryptographic audit trail for transactional or inferential logic.
+Warhollow favors:
 
----
+- Governance over abstraction  
+- Discipline over spectacle  
+- Explicit trust boundaries over diffuse provider dependence  
 
-## 💎 Value Proposition
-
-- Private, sealed, sovereign LLM hosting  
-- PQ-hybrid, forward-secure architecture  
-- Offline-capable  
-- Zero/reduced telemetry  
-- Deterministic boot and attestation  
-- Operator-controlled lifecycle and teardown  
-- Compute that prioritizes security & privacy
+It is restrained by design.  
+And deliberate by necessity.
 
 ---
 
 ## 🧩 Current Phase (Q1 2026)
 
-- Architecture and trust primitives under refinement  
-- Encrypted AI + crypto runtime in **alpha simulation**  
-- Optional private validator mesh for cross-verifying proofs  
-- Infrastructure implementation & hardening: **classified / non-public**
+- Architectural refinement and trust boundary validation  
+- AI + cryptographic workload isolation testing  
+- Substrate hardening and governance model iteration  
+
+This repository contains conceptual materials only.  
+No operational infrastructure details are disclosed.
 
 ---
 
 ## 📜 Core Documentation
 
-> **The Warhollow Ghost Primer (Abstract v0.4.4)**  
-> 🔗 [`ghost-primer/ghost-primer-v0.4.4.md`](./ghost-primer/ghost-primer-v0.4.4.md)
+- Ghost Primer v0.5.1  
+  `ghost-primer/ghost-primer-v0.5.1.md`
 
-> **Warhollow Whitepaper v0.26 — Sovereign Compute Architecture (Conceptual)**  
-> 🔗 [`whitepapers/warhollow-whitepaper-v0.26.md`](./whitepapers/warhollow-whitepaper-v0.26.md)
-
-These documents are **conceptual** and contain **no operational detail**.
+- Warhollow Whitepaper v0.26 — Sovereign Compute Architecture (Conceptual)  
+  `whitepapers/warhollow-whitepaper-v0.26.md`
 
 ---
 
-## ⚖️ Legal, Licensing, and IP Armor
+## ⚖️ Legal & Licensing
 
-- **Stealth License v0.2** — Unified software + documentation license  
-  [`./LICENSE`](./LICENSE)
+- Stealth License v0.2  
+  `./LICENSE`
 
-- **Security Positioning (Non-Certification)**  
-  [`./legal/SECURITY-POSITIONING.md`](./legal/SECURITY-POSITIONING.md)
+- Security Positioning (Non-Certification)  
+  `./legal/SECURITY-POSITIONING.md`
 
-- **IP Armor Notice** (anti–patent/copyright troll protection)  
-  [`./legal/IP-ARMOR-NOTICE.md`](./legal/IP-NOTICE.md)
+- IP Armor Notice  
+  `./legal/IP-ARMOR-NOTICE.md`
 
 No part of this repository may be used to support IP assertions against Warhollow.
 
 ---
 
-## ⚙️ System Architecture *(Classified Overview)*
+## Contact
 
-Technical implementations, hardware configurations, internal protocols, and operational pathways **are not disclosed** in this repository.
-
-This repository contains **conceptual materials only**.
-
----
-
-## 🛰 Follow / Contact
-
-- 🌐 https://warhollow.com  
-- 📬 wh@thewarhollow.com  
-- 🕳 GitHub 
-
----
-
-### 🕶 Alpha Infrastructure · Zero Telemetry · Sovereign Compute  
-
-© 2026 Warhollow LLC. All rights reserved.
+🌐 https://warhollow.com  
+📬 wh@thewarhollow.com  
+🕳 GitHub
