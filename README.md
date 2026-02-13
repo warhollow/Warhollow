@@ -80,24 +80,26 @@ No operational infrastructure details are disclosed.
 
 ## 📜 Core Documentation
 
-- Ghost Primer v0.5.1  
-  `ghost-primer/ghost-primer-v0.5.1.md`
+> **The Warhollow Ghost Primer (Abstract v0.5.1)**  
+> 🔗 [`ghost-primer/ghost-primer-v0.5.1.md`](./ghost-primer/ghost-primer-v0.5.1.md)
 
-- Warhollow Whitepaper v0.26 — Sovereign Compute Architecture (Conceptual)  
-  `whitepapers/warhollow-whitepaper-v0.26.md`
+> **Warhollow Whitepaper v0.26 — Sovereign Compute Architecture (Conceptual)**  
+> 🔗 [`whitepapers/warhollow-whitepaper-v0.26.md`](./whitepapers/warhollow-whitepaper-v0.26.md)
+
 
 ---
 
 ## ⚖️ Legal & Licensing
 
-- Stealth License v0.2  
-  `./LICENSE`
+- **Stealth License v0.2** — Unified software + documentation license  
+  [`./LICENSE`](./LICENSE)
 
-- Security Positioning (Non-Certification)  
-  `./legal/SECURITY-POSITIONING.md`
+- **Security Positioning (Non-Certification)**  
+  [`./legal/SECURITY-POSITIONING.md`](./legal/SECURITY-POSITIONING.md)
 
-- IP Armor Notice  
-  `./legal/IP-ARMOR-NOTICE.md`
+- **IP Armor Notice**  
+  [`./legal/IP-ARMOR-NOTICE.md`](./legal/IP-NOTICE.md)
+
 
 No part of this repository may be used to support IP assertions against Warhollow.
 
